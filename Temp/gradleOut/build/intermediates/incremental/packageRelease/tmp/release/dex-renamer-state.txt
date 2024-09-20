@@ -1,0 +1,4 @@
+#Fri Jul 19 09:59:46 PDT 2019
+base.0=C\:\\Users\\Tepia\\Desktop\\BombsAwayProject\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
